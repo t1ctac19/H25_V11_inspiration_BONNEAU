@@ -1,1 +1,1 @@
-ce dossier contient mon expereince au centre des sciences
+ce dossier contient mon experience au centre des sciences
