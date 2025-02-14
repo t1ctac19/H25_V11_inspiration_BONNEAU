@@ -18,4 +18,4 @@ l'exposition a été réaliser au centre des science de Montréal, l'exposition 
 
 ### expérience utillisateur 
 
-D'après moi l'idée de l'expositions était bien cependant la réalisation laissait un peu a désiré, l'odeur qui sortait était vraiment nauséabonde 
+D'après moi l'idée de l'expositions était bien cependant la réalisation laissait un peu a désiré, l'odeur qui sortait était vraiment nauséabonde et ce n'était clairment pas intentionnel, mais le reste de l'expérience était plutôt agréable la projection était assé bien réalisé malgré quelque rares erreurs de placement nous avons eu beaucoup de plaisir a expérimenter ce dispositif surtout grâce a son immersion 
