@@ -9,4 +9,4 @@ Nous sommes allé a l'exposition du centre des sciences Le Banquet pour y explor
 
 ## devant l'exposition
 
-![photo](media/photo_devant_expo)
+![photo](media/photo_devant_expo.jpg)
