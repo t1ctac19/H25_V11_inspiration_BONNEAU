@@ -17,7 +17,7 @@ l'exposition a été réaliser au centre des science de Montréal, l'exposition 
 
 ### photo de l'exposition
 
-![photo](media/projecteur_blanc_petit) ![photo](media/projecteur_noir_petit) ![photo](media/spotlight_petit) ![photo](media/table_vue_long_petit)
+![photo](media/projecteur_blanc_petit.png) ![photo](media/projecteur_noir_petit.png) ![photo](media/spotlight_petit.png) ![photo](media/table_vue_long_petit.png)
 
 
 ### expérience utillisateur 
