@@ -5,7 +5,7 @@ toute l'information sur l'expo va aller ici
 
 Nous sommes allé a l'exposition du centre des sciences Le Banquet pour y explorer les différents dispositif multimédias présent.
 
-![photo](media/nom_banquet_petit.png) ![photo](media/image_pub_banquet_petit.png)
+ ![photo](media/image_pub_banquet_petit.png) ![photo](media/nom_banquet_petit.png)
 
 ## devant l'exposition
 
