@@ -1,4 +1,4 @@
-toute l'information sur l'exposition Glenn gear va aller ici
+toute l'information sur l'exposition marée montante de Glenn gear va aller ici
 
 
 # Marée montante
