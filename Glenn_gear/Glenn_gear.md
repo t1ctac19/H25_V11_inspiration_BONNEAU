@@ -13,7 +13,7 @@ Je suis allé voir l'esposition marée montante de Glenn gear pour mieux compren
 
 ## description
 
-Marée montante est une exposition exterieur temporaire elle a été créé le 1er octobre 2024 par Glenn gear et elle se finira le 30 mars 2025, je suis allée visité cette exposition le 20 février 2025 l'oeuvre est assez simple vu de l'extérieur, elle consiste en une projection murale qui bouge et se modifie dans un style autochtone, la projection est réalisé sur le *musée des beaux-art de montréal*
+Marée montante est une exposition exterieur temporaire elle a été créé le 1er octobre 2024 par Glenn gear et elle se finira le 30 mars 2025, je suis allée visité cette exposition le 20 février 2025 l'oeuvre est assez simple vu de l'extérieur, elle consiste en une projection murale qui bouge et se modifie dans un style autochtone, la projection est réalisé sur la façade du *musée des beaux-art de montréal*
 
 ### photo de l'exposition
 
