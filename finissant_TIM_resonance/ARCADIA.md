@@ -6,9 +6,9 @@ Pour votre projet préféré, créer une fiche complète selon les consignes dan
 
 
 ## Exposition
-
-affiche de l'événement
 ![photo](medias/affiche_resonance.png)
+affiche de l'événement
+
 
 
 
