@@ -8,7 +8,7 @@ Pour votre projet préféré, créer une fiche complète selon les consignes dan
 ## Exposition
 
 affiche de l'événement
-![photo](affiche_resonance.jfif)
+![photo](affiche_resonance.jpg)
 
 l'exposition est temporaire
 
