@@ -6,7 +6,9 @@ affiche de l'événement
 ![photo](medias/affiche_resonance.png)
 
 
-Nous sommes allée visité l'exposition Résonance conçu par les finissants du programme TIM du cégep Montmorency, cette page parlera specifiquement du projet Étheria conçu par
+Nous sommes allée visité l'exposition Résonance conçu par les finissants du programme TIM du cégep Montmorency, cette page parlera specifiquement du projet Étheria conçu par :
+Joshua Gonzalez Barrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx et Maik Hamel
+
 
 
 l'exposition est temporaire
