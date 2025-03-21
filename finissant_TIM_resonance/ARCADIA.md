@@ -1,26 +1,21 @@
 # Étheria
 
-
-
-Pour votre projet préféré, créer une fiche complète selon les consignes dans TP_tous_documentation.
-
-
 ## Exposition
 affiche de l'événement
 
 ![photo](medias/affiche_resonance.png)
 
 
-
+Nous sommes allée visité l'exposition Résonance conçu par les finissants du programme TIM du cégep Montmorency, cette page parlera specifiquement du projet Étheria conçu par
 
 
 l'exposition est temporaire
 
-date visite: semaine 8 
+date visite: 18-03-25
 
-Arcadia
+Étheria
 
-college montmorency ?
+college montmorency 
 
 année 2025
 
