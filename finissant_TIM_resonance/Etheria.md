@@ -17,7 +17,7 @@ Joshua Gonzalez Barrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx et 
 ![photo](medias/Victor_Gileau.png)
 
 ### Michael Un Dupré
-![photo](medias/Michael_Un_Dupré.png
+![photo](medias/Michael_Un_Dupré.png)
 
 ### Pierre-Luc Proulx
 ![photo](medias/Pierre-Luc_Proulx.png)
