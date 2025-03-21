@@ -9,7 +9,9 @@ affiche de l'événement
 Nous sommes allée visité l'exposition Résonance conçu par les finissants du programme TIM du cégep Montmorency, cette page parlera specifiquement du projet Étheria conçu par :
 Joshua Gonzalez Barrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx et Maik Hamel
 
+
 ![photo](medias/Joshua_Gonzalez-Barrera.jpg)![photo](medias/Victor_Gileau.jpg)![photo](medias/Michael_Un_Dupré.jpg)![photo](medias/Pierre-Luc_Proulx.jpg)![photo](medias/Maik_Hamel.jpg)
+
 
 l'exposition est temporaire
 
