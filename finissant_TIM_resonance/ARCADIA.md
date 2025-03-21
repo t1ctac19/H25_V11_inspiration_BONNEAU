@@ -1,4 +1,4 @@
-# ARCADIA
+# Étheria
 
 
 
@@ -24,7 +24,7 @@ college montmorency ?
 
 année 2025
 
-l'oeuvre consiste en un jeu vidéo inspiré du dark fantasy et du pixel art
+l'oeuvre consiste en une sorte de jeu de société mélangé a un jeu vidéo, je m'explique le jeu est disposé sur une table et le style ressemble pas mal a un jeu de société avec des pions et des carrés définissant la carte, cependant le style de jeu et les animations sont beaucoup plus penché vers un jeu vidéo.
 
 type: interactive 
 
