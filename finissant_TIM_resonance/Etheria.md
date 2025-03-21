@@ -10,7 +10,9 @@ Nous sommes allée visité l'exposition Résonance conçu par les finissants du 
 Joshua Gonzalez Barrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx et Maik Hamel
 
 
-![photo](medias/Joshua_Gonzalez-Barrera.png)![photo](medias/Victor_Gileau.png)![photo](medias/Michael_Un_Dupré.png)![photo](medias/Pierre-Luc_Proulx.png)![photo](medias/Maik_Hamel.png)
+![photo](medias/Joshua_Gonzalez-Barrera.png)![photo](medias/Victor_Gileau.png)![photo](medias/Michael_Un_Dupré.png)
+Joshua Gonzalez Barrera                     Victor Gileau                      Michael Un Dupré
+![photo](medias/Pierre-Luc_Proulx.png)![photo](medias/Maik_Hamel.png)
 
 
 l'exposition est temporaire
