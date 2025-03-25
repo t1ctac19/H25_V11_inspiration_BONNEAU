@@ -17,9 +17,9 @@ Joshua Gonzalez Barrera  |  Victor Gileau  |  Michael Un Dupré  |  Pierre-Luc P
 Lors de ma visite le 18 mars 2025, j'ai décidé de choisir le projet Etheria à cause de leur créativité et du style original de leur oeuvre. L'oeuvre consiste en une sorte de jeu de société mélangé a un jeu vidéo, je m'explique le jeu est disposé sur une table et le style ressemble pas mal a un jeu de société avec des pions et des carrés définissant la carte, cependant le style de jeu et les animations sont beaucoup plus penché vers un jeu vidéo. l'oeuvre est intéractive, c'est a dire que l'on peut intéragir avec
 
 
-cartel  |  Etheria  |  Michael Un Dupré 
+cartel  |  Etheria  |  projection
 :-------------------------:|:-------------------------:|:-------------------------:
-![photo](medias/etheria_cartel.png)|![photo](medias/etheria_entier.png)|![photo](medias/Michael_Un_Dupré.png)
+![photo](medias/etheria_cartel.png)|![photo](medias/etheria_entier.png)|![photo](medias/etheria_projection.png)
 
 type: interactive 
 
