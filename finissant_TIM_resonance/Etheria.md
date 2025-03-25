@@ -18,8 +18,9 @@ Lors de ma visite le 18 mars 2025, j'ai décidé de choisir le projet Etheria à
 
 
 Joshua Gonzalez Barrera  |  Victor Gileau  |  Michael Un Dupré 
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![photo](medias/Joshua_Gonzalez-Barrera.png)|![photo](medias/Victor_Gileau.png)|![photo](medias/Michael_Un_Dupré.png)|![photo](medias/Pierre-Luc_Proulx.png)|![photo](medias/Maik_Hamel.png)
+:-------------------------:|:-------------------------:|:-------------------------:
+![photo](medias/Joshua_Gonzalez-Barrera.png)|![photo](medias/Victor_Gileau.png)|![photo](medias/Michael_Un_Dupré.png)
+
 type: interactive 
 
 photo de mise en espace
