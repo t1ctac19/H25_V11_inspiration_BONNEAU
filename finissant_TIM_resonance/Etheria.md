@@ -19,7 +19,7 @@ Lors de ma visite le 18 mars 2025, j'ai décidé de choisir le projet Etheria à
 
 cartel  |  Etheria  |  Michael Un Dupré 
 :-------------------------:|:-------------------------:|:-------------------------:
-![photo](medias/etheria_cartel.png)|![photo](etheria_entier.png)|![photo](medias/Michael_Un_Dupré.png)
+![photo](medias/etheria_cartel.png)|![photo](medias/etheria_entier.png)|![photo](medias/Michael_Un_Dupré.png)
 
 type: interactive 
 
