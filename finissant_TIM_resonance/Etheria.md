@@ -11,7 +11,7 @@ Joshua Gonzalez Barrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx et 
 
 Joshua Gonzalez Barrera  |  Victor Gileau  |  Michael Un Dupré  |  Pierre-Luc Proulx  |  Maik Hamel
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![PROJECTEUR](/expo_finissant/medias/images/plaques_metallique_prep.png)|![PROJECTEUR DE LUMIÈRE](/expo_finissant/medias/images/plateau_haut_parleur_luminatura.jpg)
+![photo](medias/Joshua_Gonzalez-Barrera.png)|![PROJECTEUR DE LUMIÈRE](/expo_finissant/medias/images/plateau_haut_parleur_luminatura.jpg)
 
 ### Joshua Gonzalez Barrera  
 ![photo](medias/Joshua_Gonzalez-Barrera.png)
