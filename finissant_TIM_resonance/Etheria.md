@@ -36,11 +36,9 @@ college montmorency
 
 année 2025
 
-l'oeuvre consiste en une sorte de jeu de société mélangé a un jeu vidéo, je m'explique le jeu est disposé sur une table et le style ressemble pas mal a un jeu de société avec des pions et des carrés définissant la carte, cependant le style de jeu et les animations sont beaucoup plus penché vers un jeu vidéo.
+Lors de ma visite le 18 mars 2025, j'ai décidé de choisir le projet Etheria à cause de leur créativité et du style original de leur oeuvre. L'oeuvre consiste en une sorte de jeu de société mélangé a un jeu vidéo, je m'explique le jeu est disposé sur une table et le style ressemble pas mal a un jeu de société avec des pions et des carrés définissant la carte, cependant le style de jeu et les animations sont beaucoup plus penché vers un jeu vidéo.
 
 type: interactive 
-
-Fonction du dispositif multimédia ?
 
 photo de mise en espace
 
