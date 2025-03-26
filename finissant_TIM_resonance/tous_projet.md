@@ -8,8 +8,9 @@ Dominic Yale ,William Beauvais ,Anton Nikulin
 
 ## Projet 2 Etheria
 équipe
-Joshua,Victor,Michael,Pierre,Maik
-
+Joshua Gonzalez Barrera  |  Victor Gileau  |  Michael Un Dupré  |  Pierre-Luc Proulx  |  Maik Hamel
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![photo](medias/Joshua_Gonzalez-Barrera.png)|![photo](medias/Victor_Gileau.png)|![photo](medias/Michael_Un_Dupré.png)|![photo](medias/Pierre-Luc_Proulx.png)|![photo](medias/Maik_Hamel.png)
 
 
 ## Projet 3 Luminatura
