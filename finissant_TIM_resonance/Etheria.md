@@ -33,9 +33,6 @@ D'après moi, cette oeuvre dispose de plusieurs point fort, premièrement, l'amb
 
 
 
-Expérience vécue
-
-❤️ Ce qui vous a plu, vous a donné des idées
 
 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
