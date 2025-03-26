@@ -68,7 +68,6 @@ Vincent Delisle  |  Ikrame Rata  |  Jérémy Duverseau
 :-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/vincent_delisle.png)|![photo](medias/ikrame_rata.png)|![photo](medias/jeremy_duverseau.png)
 
- [Prismatica_GitHub](https://pootpookies.github.io/Prismatica/)
 
 ## Projet 7 condui8
 ![photo](medias/condu8_baniere.png)
@@ -83,3 +82,20 @@ Ian Corbin  |  Samuel Desmeules Voyer  |   Alexandre Gervai  |  Kevin Malric  | 
 vélos  |  écran  |  haut parleur  |  projecteur/kinect  |  cartel  
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/velo_condu8.png)|![photo](medias/condu8_entier.png)|![photo](medias/condu8_haut_parleur_02.png)|![photo](medias/condu8_projecteur_kinect.png)|![photo](medias/condu8_cartel.png)
+
+
+
+
+##source
+1.  [Etheria_GitHub](https://ethereal-creators.github.io/Etheria/#/)
+2.  [Arcadia_GitHub](https://cousi-cousa.github.io/Arcadia/#/)
+3.  [Luminatura_GitHub](https://miaou-mafia.github.io/projet-luminatura/#/)
+4.  [Internature_GitHub](https://tprangers.github.io/internature/)
+5.  [Fuga_GitHub](https://escapism-fuga.github.io/Fuga/#/)
+6.  [Prismatica_GitHub](https://pootpookies.github.io/Prismatica/)
+7.  [C0NDU8_GitHub](https://gearshift-games.github.io/Web-C0N-DU8/#/)
+
+
+
+
+
