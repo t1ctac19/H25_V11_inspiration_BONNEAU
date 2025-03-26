@@ -1,7 +1,5 @@
 # Etheria
 
-## Exposition
-
 ![photo](medias/etheria_baniere.jpg)
 
 
