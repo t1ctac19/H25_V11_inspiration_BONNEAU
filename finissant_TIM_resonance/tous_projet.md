@@ -27,7 +27,10 @@ Dominic Yale  |  William Beauvais  |  Anton Nikulin
 ![photo](medias/dominique_yale.png)|![photo](medias/william_beauvais.png)|![photo](medias/anton_nikulin.png)
 
 ### Instalation finale
-![photo](medias/arcadia_arcade.png)
+
+Arcade  |  Cartel
+:-------------------------:|:-------------------------:
+![photo](medias/arcadia_arcade.png)|![photo](medias/arcadia_cartel.png)
 
 
 ## Projet 3 Luminatura
