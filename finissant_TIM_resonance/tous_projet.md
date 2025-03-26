@@ -59,5 +59,5 @@ Vincent Delisle  |  Ikrame Rata  |  Jérémy Duverseau
 Ian Corbin, Samuel Desmeules Voyer, Alexandre Gervai, Kevin Malric, Jérémy Roy Coté
 Ian Corbin  |  Samuel Desmeules Voyer  |  Alexandre Gervai  |  Kevin Malric  |  Jérémy Roy Coté
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![photo](medias/Joshua_Gonzalez-Barrera.png)|![photo](medias/Victor_Gileau.png)|![photo](medias/Michael_Un_Dupré.png)|![photo](medias/Pierre-Luc_Proulx.png)|![photo](medias/Maik_Hamel.png)
+![photo](medias/ian_corbin.png)|![photo](medias/samuel_desmeules-voyer.png)|![photo](medias/alexandre_gervais.png)|![photo](medias/keven_malric.png)|![photo](medias/jeremy_roy-cote.png)
 
