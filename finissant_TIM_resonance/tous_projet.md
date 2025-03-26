@@ -50,7 +50,7 @@ Matis |  Tristan  |  Daniel  |  Abdel  |  Yavuz
 
 Vincent Delisle  |  Ikrame Rata  |  Jérémy Duverseau
 :-------------------------:|:-------------------------:|:-------------------------:
-![photo](medias/Joshua_Gonzalez-Barrera.png)|![photo](medias/Victor_Gileau.png)|![photo](medias/Michael_Un_Dupré.png)
+![photo](medias/vincent_delisle.png)|![photo](medias/ikrame_rata.png)|![photo](medias/jeremy_duverseau.png)
 
 
 
