@@ -24,7 +24,7 @@ cartel  |  Etheria  |  projection
 
 
 ## Élément nécéssaire a la disposition
-Pour faire fonctionner l'oeuvre ils ont eu besoin d'une kinect, d'un projecteur, d'une table avec une nappe pour la rendre plus lisse, d'une imprimante 3D pour faire les 3 pions, d'un ordinateur pour faire fonctionner le jeu et les animation et deux haut parleur pour faire fonctionner le son du jeu et la musique du jeu.
+Pour faire fonctionner l'oeuvre ils ont eu besoin d'une kinect, d'un projecteur, d'une table avec une nappe pour la rendre plus lisse, d'une imprimante 3D pour faire les 3 pions, d'un ordinateur pour faire fonctionner le jeu et les animation, des codes Qr pour que les pions se fassent repéré et deux haut parleur pour faire fonctionner le son du jeu et la musique du jeu.
 
 
 ## Avis personnel
@@ -34,6 +34,6 @@ D'après moi, cette oeuvre dispose de plusieurs point fort, premièrement, l'amb
 
 
 ## Aspect que j'aurait fais différement
-Je pense que la kinect aurait pu être placé d'une manière plus efficace 
+Je pense que la kinect aurait pu être placé d'une manière plus efficace puisque comme mentionné précedement elle avait un peu de la misère a repéré les code QR 
 
 Références****
