@@ -1,6 +1,12 @@
 # Tous les projets étudiants
 
+## Exposition
+affiche de l'événement
 
+![photo](medias/affiche_resonance.png)
+
+
+Nous sommes allée visité l'exposition Résonance conçu par les finissants du programme TIM du cégep Montmorency, cette page parlera
 
 ## Projet 1 Etheria
 équipe
