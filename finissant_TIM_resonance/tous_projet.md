@@ -16,13 +16,15 @@ Pour en savoir plus sur ce merveilleux projet cliquez ici -> https://github.com/
 
 
 ## Projet 2 Arcadia
+![photo](medias/arcadia_menu_principal.png)
+
 équipe
 
 Dominic Yale  |  William Beauvais  |  Anton Nikulin
 :-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/dominique_yale.png)|![photo](medias/william_beauvais.png)|![photo](medias/anton_nikulin.png)
 
-![photo](medias/arcadia_menu_principal.png)
+
 
 
 ## Projet 3 Luminatura
