@@ -28,6 +28,9 @@ Dominic Yale  |  William Beauvais  |  Anton Nikulin
 équipe
 Audrey,Justine,Camilia,Prethiah,Ihab
 
+Audrey  |  Justine  |  Camilia  |  Prethiah  |  Ihab
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![photo](medias/Joshua_Gonzalez-Barrera.png)|![photo](medias/Victor_Gileau.png)|![photo](medias/Michael_Un_Dupré.png)|![photo](medias/Pierre-Luc_Proulx.png)|![photo](medias/Maik_Hamel.png)
 
 ## Projet 4 internature
 équipe
