@@ -7,6 +7,8 @@
 Nous sommes allée visité l'exposition Résonance conçu par les finissants du programme TIM du cégep Montmorency, cette page parlera de tout les projet réalisé par les étudiants de la 6e session du programme et ils seront classé du plus interessant au moins interessant de mon point de vu ( le 1 est mon préféré).
 
 ## Projet 1 Etheria
+![photo](medias/etheria_baniere.jpg)
+
 ### équipe
 Joshua Gonzalez Barrera  |  Victor Gileau  |  Michael Un Dupré  |  Pierre-Luc Proulx  |  Maik Hamel
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
