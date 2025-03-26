@@ -28,7 +28,10 @@ Matis,Tristan,Daniel,Abdel,Yavuz
 
 ## Projet 6 prismatica
 équipe
-Vincent Delisle,Ikrame Rata,Jérémy Duverseau
+
+Vincent Delisle  |  Ikrame Rata  |  Jérémy Duverseau
+:-------------------------:|:-------------------------:|:-------------------------:
+![photo](medias/Joshua_Gonzalez-Barrera.png)|![photo](medias/Victor_Gileau.png)|![photo](medias/Michael_Un_Dupré.png)
 
 
 
