@@ -23,16 +23,15 @@ cartel  |  Etheria  |  projection
 
 
 
-
+## Élément nécéssaire a la disposition
 Pour faire fonctionner l'oeuvre ils ont eu besoin d'une kinect, d'un projecteur, d'une table avec une nappe pour la rendre plus lisse, d'une imprimante 3D pour faire les 3 pions, d'un ordinateur pour faire fonctionner le jeu et les animation et deux haut parleur pour faire fonctionner le son du jeu et la musique du jeu.
 
 
+## Avis personnel
+D'après moi, cette oeuvre dispose de plusieurs point fort, premièrement, l'ambiance du jeu est très bien réussi elle est très immersive et réussi a capter l'attention des joueurs jusqu'à la fin de la partie. Deuxièmement, le jeu marchait assez bien, je n'ai pas rencontrée d'anomalie informatique durant ma partie. Troisièmement, les personnages se déplaçait plutôt bien la plupart du temps. Pour les points négatifs, je crois que certain objet sur la carte aurait pu être mieux expliqué, parce que cetain <<bonus>> n'était pas très clair. De plus, à certains instant de la partie la kinect ne marchais pas trop, ce qui fesait que les personnages se téléportait et c'était un peu énervant. Pour finir, le projet était vraiment intéressant et amusant malgré quelque rare petite erreur technique.
 
 
 
-
-
-Éléments nécessaires à la mise en exposition
 
 Expérience vécue
 
