@@ -21,7 +21,7 @@ Dominic Yale ,William Beauvais ,Anton Nikulin
 
 Dominic Yale  |  William Beauvais  |  Anton Nikulin
 :-------------------------:|:-------------------------:|:-------------------------:
-![photo](medias/Joshua_Gonzalez-Barrera.png)|![photo](medias/Victor_Gileau.png)|![photo](medias/Michael_Un_Dupré.png)
+![photo](medias/dominique_yale.png)|![photo](medias/william_beauvais.png)|![photo](medias/anton_nikulin.png)
 
 
 ## Projet 3 Luminatura
