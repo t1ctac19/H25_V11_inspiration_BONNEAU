@@ -3,7 +3,7 @@
 
 ## Projet 1 Arcadia
 équipe
-Dominic Yale,William Beauvais,Anton Nikulin
+Dominic Yale ,William Beauvais ,Anton Nikulin
 
 
 ## Projet 2 Etheria
@@ -33,6 +33,6 @@ Vincent Delisle,Ikrame Rata,Jérémy Duverseau
 
 ## Projet 7 condui8
 équipe
-Ian_Corbin,Samuel_Desmeules_Voyer,Alexandre_Gervai,Kevin_Malric,Jérémy_Roy_Coté
+Ian Corbin, Samuel Desmeules Voyer, Alexandre Gervai, Kevin Malric, Jérémy Roy Coté
 
 
