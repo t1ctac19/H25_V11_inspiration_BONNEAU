@@ -3,7 +3,7 @@
 ## Exposition
 affiche de l'événement
 
-![video](medias/resonanceBanniere.mp4)
+![video](medias/resonance_banniere.png)
 
 
 Nous sommes allée visité l'exposition Résonance conçu par les finissants du programme TIM du cégep Montmorency, cette page parlera de tout les projet réalisé par les étudiants de la 6e session du programme TIM du cégep Montmorency
