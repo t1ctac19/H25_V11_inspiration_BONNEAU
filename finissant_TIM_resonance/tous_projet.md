@@ -75,7 +75,11 @@ Vincent Delisle  |  Ikrame Rata  |  Jérémy Duverseau
 
 ### équipe
 
-Ian Corbin  |  Samuel Desmeules Voyer  |  Alexandre Gervai  |  Kevin Malric  |  Jérémy Roy Coté
+Ian Corbin  |  Samuel Desmeules Voyer  |  haut parleur  |  Kevin Malric  |  Jérémy Roy Coté
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![photo](medias/ian_corbin.png)|![photo](medias/samuel_desmeules-voyer.png)|![photo](medias/alexandre_gervais.png)|![photo](medias/keven_malric.png)|![photo](medias/jeremy_roy-cote.png)
+![photo](medias/ian_corbin.png)|![photo](medias/samuel_desmeules-voyer.png)|![photo](medias/condu8_haut_parleur_02.png|![photo](medias/keven_malric.png)|![photo](medias/jeremy_roy-cote.png)
 
+### Instalation finale
+Ian Corbin  |  écran  |  Alexandre Gervai  |  Kevin Malric  |  cartel  
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![photo](medias/ian_corbin.png)|![photo](medias/condu8_entier.png)|![photo](medias/alexandre_gervais.png)|![photo](medias/keven_malric.png)|![photo](medias/condu8_cartel.png)
