@@ -21,7 +21,13 @@ cartel  |  Etheria  |  projection
 :-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/etheria_cartel.png)|![photo](medias/etheria_entier.png)|![photo](medias/etheria_projection.png)
 
-type: interactive 
+
+
+
+Pour faire fonctionner l'oeuvre 
+
+
+
 
 photo de mise en espace
 
