@@ -3,7 +3,7 @@
 ## Exposition
 affiche de l'événement
 
-![photo](medias/affiche_resonance.png)
+![photo](medias/etheria_baniere.jpg)
 
 
 Nous sommes allée visité l'exposition Résonance conçu par les finissants du programme TIM du cégep Montmorency, cette page parlera specifiquement du projet Etheria conçu par :
