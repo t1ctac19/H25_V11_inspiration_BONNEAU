@@ -17,7 +17,6 @@ Pour en savoir plus sur ce merveilleux projet cliquez ici -> https://github.com/
 
 ## Projet 2 Arcadia
 équipe
-Dominic Yale ,William Beauvais ,Anton Nikulin
 
 Dominic Yale  |  William Beauvais  |  Anton Nikulin
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -28,7 +27,6 @@ Dominic Yale  |  William Beauvais  |  Anton Nikulin
 
 ## Projet 3 Luminatura
 équipe
-Audrey,Justine,Camilia,Prethiah,Ihab
 
 Audrey  |  Justine  |  Camilia  |  Prethiah  |  Ihab
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -42,7 +40,7 @@ Khaly Tia Sing |  Isaac Fafard  |  Delphine Grenier  |  Sitmonternna Yi  |  Kenz
 ![photo](medias/khalytia_sing.png)|![photo](medias/isaac_fafard.png)|![photo](medias/delphine_grenier.png)|![photo](medias/sitmonternma_yi.png)|![photo](medias/kenza_el_harrif.png)
 ## Projet 5 Fuga
 équipe
-Matis,Tristan,Daniel,Abdel,Yavuz
+
 Matis |  Tristan  |  Daniel  |  Abdel  |  Yavuz
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/matis.png)|![photo](medias/tristan.png)|![photo](medias/daniel.png)|![photo](medias/abdel.png)|![photo](medias/yavuz.png)
@@ -58,7 +56,7 @@ Vincent Delisle  |  Ikrame Rata  |  Jérémy Duverseau
 
 ## Projet 7 condui8
 équipe
-Ian Corbin, Samuel Desmeules Voyer, Alexandre Gervai, Kevin Malric, Jérémy Roy Coté
+
 Ian Corbin  |  Samuel Desmeules Voyer  |  Alexandre Gervai  |  Kevin Malric  |  Jérémy Roy Coté
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/ian_corbin.png)|![photo](medias/samuel_desmeules-voyer.png)|![photo](medias/alexandre_gervais.png)|![photo](medias/keven_malric.png)|![photo](medias/jeremy_roy-cote.png)
