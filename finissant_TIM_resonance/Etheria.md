@@ -24,7 +24,7 @@ cartel  |  Etheria  |  projection
 
 
 
-Pour faire fonctionner l'oeuvre ils ont eu beoin d'une kinect, d'un projecteur, d'une table avec une nappe pour la rendre plus lisse, d'une imprimante 3D pour faire les 3 pions, d'un ordinateur pour faire fonctionner le jeu et les animation et deux haut parleur pour faire fonctionner le son du jeu et la musique du jeu.
+Pour faire fonctionner l'oeuvre ils ont eu besoin d'une kinect, d'un projecteur, d'une table avec une nappe pour la rendre plus lisse, d'une imprimante 3D pour faire les 3 pions, d'un ordinateur pour faire fonctionner le jeu et les animation et deux haut parleur pour faire fonctionner le son du jeu et la musique du jeu.
 
 
 
