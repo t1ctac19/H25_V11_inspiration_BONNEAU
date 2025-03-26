@@ -19,7 +19,7 @@ Pour en savoir plus sur ce merveilleux projet cliquez ici -> https://github.com/
 équipe
 Dominic Yale ,William Beauvais ,Anton Nikulin
 
-Dominic Yalea  |  William Beauvais  |  Anton Nikulin
+Dominic Yale  |  William Beauvais  |  Anton Nikulin
 :-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/Joshua_Gonzalez-Barrera.png)|![photo](medias/Victor_Gileau.png)|![photo](medias/Michael_Un_Dupré.png)
 
