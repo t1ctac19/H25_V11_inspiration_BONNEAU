@@ -68,7 +68,7 @@ Vincent Delisle  |  Ikrame Rata  |  Jérémy Duverseau
 :-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/vincent_delisle.png)|![photo](medias/ikrame_rata.png)|![photo](medias/jeremy_duverseau.png)
 
-[primatica_github]https://pootpookies.github.io/Prismatica/
+ [Prismatica_GitHub](https://pootpookies.github.io/Prismatica/)
 
 ## Projet 7 condui8
 ![photo](medias/condu8_baniere.png)
