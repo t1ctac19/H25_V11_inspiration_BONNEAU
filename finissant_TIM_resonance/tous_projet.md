@@ -36,7 +36,7 @@ Arcade  |  Cartel
 
 Arcade  |  Cartel
 :-------------------------:|:-------------------------:
-![photo](medias/arcadia_arcade.png)|![photo](medias/arcadia_cartel.png)
+![photo](medias/etheria_plantation_01.png)|![photo](medias/etheria_plantation_02.png)
 
 ## Projet 3 Luminatura
 ![photo](medias/luminatura_baniere.png)
