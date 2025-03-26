@@ -38,5 +38,7 @@ Vincent Delisle  |  Ikrame Rata  |  Jérémy Duverseau
 ## Projet 7 condui8
 équipe
 Ian Corbin, Samuel Desmeules Voyer, Alexandre Gervai, Kevin Malric, Jérémy Roy Coté
-
+Ian Corbin  |  Samuel Desmeules Voyer  |  Alexandre Gervai  |  Kevin Malric  |  Jérémy Roy Coté
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![photo](medias/Joshua_Gonzalez-Barrera.png)|![photo](medias/Victor_Gileau.png)|![photo](medias/Michael_Un_Dupré.png)|![photo](medias/Pierre-Luc_Proulx.png)|![photo](medias/Maik_Hamel.png)
 
