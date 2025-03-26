@@ -1,7 +1,6 @@
 # Etheria
 
 ## Exposition
-affiche de l'événement
 
 ![photo](medias/etheria_baniere.jpg)
 
