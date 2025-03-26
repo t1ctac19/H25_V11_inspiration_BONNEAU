@@ -4,7 +4,7 @@
 ![photo](medias/resonance_baniere.png)
 
 
-Nous sommes allée visité l'exposition Résonance conçu par les finissants du programme TIM du cégep Montmorency, cette page parlera de tout les projet réalisé par les étudiants de la 6e session du programme TIM du cégep Montmorency
+Nous sommes allée visité l'exposition Résonance conçu par les finissants du programme TIM du cégep Montmorency, cette page parlera de tout les projet réalisé par les étudiants de la 6e session du programme TIM du cégep Montmorency et ils seront classé du plus interessant au moins interessant de mon point de vu ( le 1 est mon préféré).
 
 ## Projet 1 Etheria
 équipe
