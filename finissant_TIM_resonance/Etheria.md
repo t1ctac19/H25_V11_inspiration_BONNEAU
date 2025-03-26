@@ -36,4 +36,4 @@ D'après moi, cette oeuvre dispose de plusieurs point fort, premièrement, l'amb
 ## Aspect que j'aurait fais différement
 Je pense que la kinect aurait pu être placé d'une manière plus efficace puisque comme mentionné précedement elle avait un peu de la misère a repéré les code QR 
 
-Références****
+
