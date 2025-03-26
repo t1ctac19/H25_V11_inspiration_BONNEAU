@@ -41,6 +41,9 @@ Khaly Tia Sing |  Isaac Fafard  |  Delphine Grenier  |  Sitmonternna Yi  |  Kenz
 ## Projet 5 Fuga
 équipe
 Matis,Tristan,Daniel,Abdel,Yavuz
+Matis |  Tristan  |  Daniel  |  Abdel  |  Yavuz
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![photo](medias/matis.png)|![photo](medias/tristan.png)|![photo](medias/daniel.png)|![photo](medias/abdel.png)|![photo](medias/yavuz.png)
 
 ## Projet 6 prismatica
 équipe
