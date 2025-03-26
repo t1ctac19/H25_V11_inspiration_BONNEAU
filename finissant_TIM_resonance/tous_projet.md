@@ -77,7 +77,7 @@ Vincent Delisle  |  Ikrame Rata  |  Jérémy Duverseau
 
 Ian Corbin  |  Samuel Desmeules Voyer  |   Alexandre Gervai  |  Kevin Malric  |  Jérémy Roy Coté
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![photo](medias/ian_corbin.png)|![photo](medias/samuel_desmeules-voyer.png)|![photo](medias/condu8_haut_parleur_02.png|![photo](medias/keven_malric.png)|![photo](medias/jeremy_roy-cote.png)
+![photo](medias/ian_corbin.png)|![photo](medias/samuel_desmeules-voyer.png)|![photo](medias/alexandre_gervais.png)|![photo](medias/keven_malric.png)|![photo](medias/jeremy_roy-cote.png)
 
 ### Instalation finale
 vélos  |  écran  |  haut parleur  |  projecteur/kinect  |  cartel  
