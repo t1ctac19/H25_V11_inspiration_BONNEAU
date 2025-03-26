@@ -33,7 +33,7 @@ D'après moi, cette oeuvre dispose de plusieurs point fort, premièrement, l'amb
 
 
 
-
-🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
+## Aspect que j'aurait fais différement
+Je pense que la kinect aurait pu être placé d'une manière plus efficace 
 
 Références****
