@@ -34,8 +34,10 @@ Audrey  |  Justine  |  Camilia  |  Prethiah  |  Ihab
 
 ## Projet 4 internature
 équipe
-Khaly Tia Sing,Isaac Fafard,Delphine Grenier,Sitmonternna Yi,Kenza El Harrif
 
+Khaly Tia Sing |  Isaac Fafard  |  Delphine Grenier  |  Sitmonternna Yi  |  Kenza El Harrif
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![photo](medias/khalytia_sing.png)|![photo](medias/isaac_fafard.png)|![photo](medias/delphine_grenier.png)|![photo](medias/sitmonternma_yi.png)|![photo](medias/kenza_el_harrif.png)
 ## Projet 5 Fuga
 équipe
 Matis,Tristan,Daniel,Abdel,Yavuz
