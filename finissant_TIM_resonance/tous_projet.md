@@ -66,7 +66,7 @@ installation  |  Cartel
 
 ### Plantation
 
-plantation
+plantation  |  plan
 :-------------------------:|:-------------------------:
 ![photo](medias/luminatura_plantation_01.png)|![photo](medias/luminatura_plantation_02.png)
 
