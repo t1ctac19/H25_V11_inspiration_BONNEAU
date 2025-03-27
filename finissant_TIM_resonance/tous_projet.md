@@ -71,13 +71,13 @@ plantation  |  plan
 ![photo](medias/luminatura_plantation_01.png)|![photo](medias/luminatura_plantation_02.png)
 
 ### Avis
-Avant d'avoir expérimenté c³ette oeuvre elle figurait au top 1 de la liste puisque je trouve le concept vraiment interessant: un jeu du style << dark fantasy >> des années 90 qui se joue sur une borne d'arcade. Commençons par les points positif, les graphique et le style du jeu m'on beaucoup impréssionné, j'était surpris par les détailles des décors et du personnages. de plus, le jeu avais un très bon temps de réaction je n'est pas senti qu'il y avait du << input lag >>. Cependant quelque point m'on fait changé d'avis sur sa place de numéro 1. Premièrement, les ennemies touchaient souvent le joueur sans le touché réelement ce que je trouvais vraiment frustrant. Deuxièmement, la difficulté du jeu était trop dificile en grande partie à cause du premier point se qui ma fais décrocher du jeu.
+Avant d'avoir essayer cette oeuvre je ne pensait pas la mettre si haute dans la liste mais je me suis pris à contemplé cette oeuvre beaucoup trop longtemps pour ne pas la mettre dans mon top 3. Même si l'intéractivité est maigre et que c'est souvent ce que j'aime le plus dans un projet multimédias, j'ai adoré cette oeuvre, le visuel était magnifique par son décors recherché et une installation impréssionante.
 
 ### Cours nécéssaire à la conception 
 
-- Intéractivité ludique
+- conception d'une oeuvre multimédias
 - objet intéractif
-- animation 2d
+- instalation multimédias
 
 
 
@@ -89,6 +89,30 @@ Avant d'avoir expérimenté c³ette oeuvre elle figurait au top 1 de la liste pu
 Khaly Tia Sing |  Isaac Fafard  |  Delphine Grenier  |  Sitmonternna Yi  |  Kenza El Harrif
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/khalytia_sing.png)|![photo](medias/isaac_fafard.png)|![photo](medias/delphine_grenier.png)|![photo](medias/sitmonternma_yi.png)|![photo](medias/kenza_el_harrif.png)
+
+### Instalation finale
+
+installation  |  centre  |  haut parleur  |  Cartel  
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![photo](medias/internature_entier.png)|![photo](medias/internature_haut_parleur.png)|![photo](medias/internature_interactif.png)|![photo](medias/internature_cartel.png)
+
+### Plantation
+
+plantation  |  plan
+:-------------------------:|:-------------------------:
+![photo](medias/luminatura_plantation_01.png)|![photo](medias/luminatura_plantation_02.png)
+
+### Avis
+Avant d'avoir essayer cette oeuvre je ne pensait pas la mettre si haute dans la liste mais je me suis pris à contemplé cette oeuvre beaucoup trop longtemps pour ne pas la mettre dans mon top 3. Même si l'intéractivité est maigre et que c'est souvent ce que j'aime le plus dans un projet multimédias, j'ai adoré cette oeuvre, le visuel était magnifique par son décors recherché et une installation impréssionante.
+
+### Cours nécéssaire à la conception 
+
+- conception d'une oeuvre multimédias
+- objet intéractif
+- instalation multimédias
+
+
+
 ## Projet 5 Fuga
 ![photo](medias/fuga_baniere.jpg)
 
