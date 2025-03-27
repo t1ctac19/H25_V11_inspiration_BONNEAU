@@ -1,4 +1,4 @@
- # Tous les projets étudiants
+# Tous les projets étudiants
 
 ## Exposition
 ![photo](medias/resonance_baniere.png)
@@ -57,6 +57,29 @@ Avant d'avoir expérimenté c³ette oeuvre elle figurait au top 1 de la liste pu
 Audrey  |  Justine  |  Camilia  |  Prethiah  |  Ihab
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/audrey.png)|![photo](medias/justine.png)|![photo](medias/camila.png)|![photo](medias/prethiah.png)|![photo](medias/ihab.png)
+
+### Instalation finale
+
+Arcade  |  Cartel
+:-------------------------:|:-------------------------:
+![photo](medias/arcadia_arcade.png)|![photo](medias/arcadia_cartel.png)
+
+### Plantation
+
+Arcade  |  Cartel
+:-------------------------:|:-------------------------:
+![photo](medias/etheria_plantation_01.png)|![photo](medias/etheria_plantation_02.png)
+
+### Avis
+Avant d'avoir expérimenté c³ette oeuvre elle figurait au top 1 de la liste puisque je trouve le concept vraiment interessant: un jeu du style << dark fantasy >> des années 90 qui se joue sur une borne d'arcade. Commençons par les points positif, les graphique et le style du jeu m'on beaucoup impréssionné, j'était surpris par les détailles des décors et du personnages. de plus, le jeu avais un très bon temps de réaction je n'est pas senti qu'il y avait du << input lag >>. Cependant quelque point m'on fait changé d'avis sur sa place de numéro 1. Premièrement, les ennemies touchaient souvent le joueur sans le touché réelement ce que je trouvais vraiment frustrant. Deuxièmement, la difficulté du jeu était trop dificile en grande partie à cause du premier point se qui ma fais décrocher du jeu.
+
+### Cours nécéssaire à la conception 
+
+- Intéractivité ludique
+- objet intéractif
+- animation 2d
+
+
 
 ## Projet 4 internature
 ![photo](medias/internature_baniere.jpg)
