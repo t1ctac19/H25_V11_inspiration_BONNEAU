@@ -126,7 +126,7 @@ Matis |  Tristan  |  Daniel  |  Abdel  |  Yavuz
 
 installation  |  objet intéractif  |  haut parleur  |  Cartel  
 :-------------------------:|:-------------------------:|:-------------------------:
-![photo](medias/fuga_entier.png)|![photo](medias/fuga_interactif.png)|![photo](medias/fuga_haut_parleur.png)
+![photo](medias/fuga_entier.png)|![photo](medias/fuga_interactif.png)|![photo](medias/fuga_haut_parleur.png)|![photo](medias/fuga_cartel.png)
 ### Plantation
 
 Devant |  Enssemble  |  Haut  
