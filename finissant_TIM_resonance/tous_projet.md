@@ -190,13 +190,13 @@ Ian Corbin  |  Samuel Desmeules Voyer  |   Alexandre Gervai  |  Kevin Malric  | 
 ### Instalation finale
 vélos  |  écran  |  haut parleur  |  projecteur/kinect  |  cartel  
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![photo](medias/velo_condu8.png)|![photo](medias/condu8_entier.png)|![photo](medias/condu8_haut_parleur_02.png)|![photo](medias/condu8_projecteur_kinect.png)|![photo](medias/condu8_cartel.png)
+![photo](medias/condu8_velo.png)|![photo](medias/condu8_entier.png)|![photo](medias/condu8_haut_parleur_02.png)|![photo](medias/condu8_projecteur_kinect.png)|![photo](medias/condu8_cartel.png)
 
 ### Plantation
 
-Salle |  Enssemble  |  Devant  |  haut enssemble  |  haut 
+Plantation 
 :-------------------------:
-![photo](medias/prismatica_plantation_01.png)
+![photo](medias/condu8_plantation_01.png)
 
 ### Avis
 Avant d'aller voir cette oeuvre je n'avais pas trop compris le concept non plus et il ne m'intteressait pas trop, malheureusement je n'est pas trop changé d'avis. Il y a toutefois des points positif, premièrement il y avait une grande surface de dessin et beaucoup de couleur a utilisé et les couleurs faisaient belles et bien les couleur mise sur la planche. Deuxièmement, toutes les couleurs faisaient un son différent se qui était amusant a essayer une par une. Passons au point négatif maintenant, premièrement, lorsque l'on mettait plusieurs couleur en même temps le sson devenais vite chaotique et désagréable. Deuxièmement, les dessins fais sur la planche était vraiment différent des dessins sur la projection vidéo ce qui était asser décevant. 
