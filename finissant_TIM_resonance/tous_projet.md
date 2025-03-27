@@ -168,14 +168,14 @@ Salle |  Enssemble  |  Devant  |  haut enssemble  |  haut
 ![photo](medias/prismatica_plantation_01.png)|![photo](medias/prismatica_plantation_02.png)|![photo](medias/prismatica_plantation_03.png)|![photo](medias/prismatica_plantation_04.png)|![photo](medias/prismatica_plantation_05.png)
 
 ### Avis
-Avant d'aller voir cette oeuvre je n'avait pas trop d'avis puisque je n'avait pas exactement compris le concept. Après l'avoir visité je peut dire que j'ai été relativement surpris en vu des commentaires que j'avais entendu de certain collègue. Pour les points positifs, de un je crois que le visuel était vraiment beau et très immersif. De deux, je crois que la musique était plutôt bonne. Pour les points négatifs, premièrement je crois que le concept était un peu flou même après l'avoir testé. Deuxièmement, je pense que les frames par seconde de la poussée des arbres aurait pu être 2 voir 3 fois plus élever parce que l'animation était très saccadé.
+Avant d'aller voir cette oeuvre je n'avais pas trop compris le concept non plus et il ne m'intteressait pas trop, malheureusement je n'est pas trop changé d'avis. Il y a toutefois des points positif, premièrement il y avait une grande surface de dessin et beaucoup de couleur a utilisé et les couleurs faisaient belles et bien les couleur mise sur la planche. Deuxièmement, toutes les couleurs faisaient un son différent se qui était amusant a essayer une par une. Passons au point négatif maintenant, premièrement, lorsque l'on mettait plusieurs couleur en même temps le sson devenais vite chaotique et désagréable. Deuxièmement, les dessins fais sur la planche était vraiment différent des dessins sur la projection vidéo ce qui était asser décevant. 
 
 
 ### Cours nécéssaire à la conception 
 
-- animation 3D
-- modélisation 3D
-- instalation multimédias
+- Audio 2
+- Traitment audiovisuel
+- conception d'une oeuvre multimédias
 
 
 ## Projet 7 condui8
@@ -192,7 +192,23 @@ vélos  |  écran  |  haut parleur  |  projecteur/kinect  |  cartel
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/velo_condu8.png)|![photo](medias/condu8_entier.png)|![photo](medias/condu8_haut_parleur_02.png)|![photo](medias/condu8_projecteur_kinect.png)|![photo](medias/condu8_cartel.png)
 
-### plantation
+### Plantation
+
+Salle |  Enssemble  |  Devant  |  haut enssemble  |  haut 
+:-------------------------:
+![photo](medias/prismatica_plantation_01.png)
+
+### Avis
+Avant d'aller voir cette oeuvre je n'avais pas trop compris le concept non plus et il ne m'intteressait pas trop, malheureusement je n'est pas trop changé d'avis. Il y a toutefois des points positif, premièrement il y avait une grande surface de dessin et beaucoup de couleur a utilisé et les couleurs faisaient belles et bien les couleur mise sur la planche. Deuxièmement, toutes les couleurs faisaient un son différent se qui était amusant a essayer une par une. Passons au point négatif maintenant, premièrement, lorsque l'on mettait plusieurs couleur en même temps le sson devenais vite chaotique et désagréable. Deuxièmement, les dessins fais sur la planche était vraiment différent des dessins sur la projection vidéo ce qui était asser décevant. 
+
+
+### Cours nécéssaire à la conception 
+
+- Audio 2
+- Traitment audiovisuel
+- conception d'une oeuvre multimédias
+
+
 
 
 
