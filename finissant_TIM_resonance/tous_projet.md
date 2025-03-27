@@ -94,7 +94,7 @@ Khaly Tia Sing |  Isaac Fafard  |  Delphine Grenier  |  Sitmonternna Yi  |  Kenz
 
 installation  |  centre  |  haut parleur  |  Cartel  
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![photo](medias/internature_entier.png)|![photo](medias/internature_haut_parleur.png)|![photo](medias/internature_interactif.png)|![photo](medias/internature_cartel.png)
+![photo](medias/internature_entier.png)|![photo](medias/internature_interactif.png)|![photo](medias/internature_haut_parleur.png)|![photo](medias/internature_cartel.png)
 
 ### Plantation
 
