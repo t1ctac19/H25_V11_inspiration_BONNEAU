@@ -30,6 +30,22 @@ Pour faire fonctionner l'oeuvre ils ont eu besoin
 - de codes Qr pour que les pions se fassent repéré
 - de deux haut parleur pour faire fonctionner le son du jeu et la musique du jeu.
 
+### Plantation
+
+Avant  |  Après
+:-------------------------:|:-------------------------:
+![photo](medias/etheria_plantation_01.png)|![photo](medias/etheria_plantation_02.png)
+
+### Avis
+Avant d'avoir expérimenté c³ette oeuvre elle figurait au top 1 de la liste puisque je trouve le concept vraiment interessant: un jeu du style << dark fantasy >> des années 90 qui se joue sur une borne d'arcade. Commençons par les points positif, les graphique et le style du jeu m'on beaucoup impréssionné, j'était surpris par les détailles des décors et du personnages. de plus, le jeu avais un très bon temps de réaction je n'est pas senti qu'il y avait de la latence. Cependant quelque point m'on fait changé d'avis sur sa place de numéro 1. Premièrement, les ennemies touchaient souvent le joueur sans le touché réelement ce que je trouvais vraiment frustrant. Deuxièmement, la difficulté du jeu était trop dificile en grande partie à cause du premier point se qui ma fais décrocher du jeu.
+
+### Cours nécéssaire à la conception 
+
+- Intéractivité ludique
+- objet intéractif
+- animation 2d
+
+
 
 ## Avis personnel
 D'après moi, cette oeuvre dispose de plusieurs point fort, premièrement, l'ambiance du jeu est très bien réussi elle est très immersive et réussi a capter l'attention des joueurs jusqu'à la fin de la partie. Deuxièmement, le jeu marchait assez bien, je n'ai pas rencontrée d'anomalie informatique durant ma partie. Troisièmement, les personnages se déplaçait plutôt bien la plupart du temps. Pour les points négatifs, je crois que certain objet sur la carte aurait pu être mieux expliqué, parce que cetain <<bonus>> n'était pas très clair. De plus, à certains instant de la partie la kinect ne marchais pas trop, ce qui fesait que les personnages se téléportait et c'était un peu énervant. Pour finir, le projet était vraiment intéressant et amusant malgré quelque rare petite erreur technique.
