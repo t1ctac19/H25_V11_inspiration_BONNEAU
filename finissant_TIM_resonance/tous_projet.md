@@ -199,17 +199,19 @@ Plantation
 ![photo](medias/condu8_plantation_01.png)
 
 ### Avis
-Avant d'aller voir cette oeuvre je n'avais pas trop compris le concept non plus et il ne m'intteressait pas trop, malheureusement je n'est pas trop changé d'avis. Il y a toutefois des points positif, premièrement il y avait une grande surface de dessin et beaucoup de couleur a utilisé et les couleurs faisaient belles et bien les couleur mise sur la planche. Deuxièmement, toutes les couleurs faisaient un son différent se qui était amusant a essayer une par une. Passons au point négatif maintenant, premièrement, lorsque l'on mettait plusieurs couleur en même temps le sson devenais vite chaotique et désagréable. Deuxièmement, les dessins fais sur la planche était vraiment différent des dessins sur la projection vidéo ce qui était asser décevant. 
+Malheureusement pour moi et pour cette liste Condu8 était en panne lors de ma visite, donc je n'ai pas pu le tester comme tout les autres ce qui lui à malheureusement mérité la dernière place sur cette liste. Au vu du concept je crois que je l'aurais mis beaucoup plus haut dans la liste si j'avait eu la chance de le tester, je ne peut pas trop donnée de point positif ni de point négatif a part qu'il était déffectuer.
 
 
 ### Cours nécéssaire à la conception 
 
-- Audio 2
-- Traitment audiovisuel
+- modélisation 3D
+- Animation 3D
 - conception d'une oeuvre multimédias
 
 
+## Technique multimédias que je n'avais jamais vu
 
+J'ai été étonner par le nombre d'oeuvre qui avait utilisé la kinect puisque pour moi la kinect c'était un produit deffectueux de la marque Xbox. Cependant avec de la recherche j'ai trouver que Microsoft ne fesais bel et bien plus de kinect depuis un certain temps, mais qu'elle restait d'une technologie impressionante pour l'époque. La kinect est une sorte de caméra servant à détecter les mouvements, elle était plutôt utilisé dans des jeux comme << Just Danse >> ou << Forza Motorsport >>. J'ai été impressionné par l'utilisation créative de la kinect dans les projets: Etheria, Prismatica et Condu8. Dans Etheria ils l'utilisaient pour détecter les codes QR définnissant les personnages, dans prismatica ils l'utilisaient pour tout les dessins et les couleurs dernièrement pour Condu8 ils l'utilisaient pour détecté les mouvement du joueur sur le vélo.
 
 
 ## source
