@@ -35,7 +35,7 @@ installation  |  Cartel
 
 ### Plantation
 
-Arcade  |  Cartel
+Avant  |  Après
 :-------------------------:|:-------------------------:
 ![photo](medias/etheria_plantation_01.png)|![photo](medias/etheria_plantation_02.png)
 
