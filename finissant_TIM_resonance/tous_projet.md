@@ -156,6 +156,27 @@ Vincent Delisle  |  Ikrame Rata  |  Jérémy Duverseau
 :-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/vincent_delisle.png)|![photo](medias/ikrame_rata.png)|![photo](medias/jeremy_duverseau.png)
 
+### Instalation finale
+
+Installation  |  caméra  | Cartel  
+:-------------------------:|:-------------------------:|:-------------------------:
+![photo](medias/prismatica_interactif.png)|![photo](medias/prismatica_camera.png)|![photo](medias/prismatica_cartel.png)
+### Plantation
+
+Salle |  Enssemble  |  Devant  |  haut enssemble  |  haut 
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![photo](medias/prismatica_plantation_01.png)|![photo](medias/prismatica_plantation_02.png)|![photo](medias/prismatica_plantation_03.png)|![photo](medias/prismatica_plantation_04.png)|![photo](medias/prismatica_plantation_05.png)
+
+### Avis
+Avant d'aller voir cette oeuvre je n'avait pas trop d'avis puisque je n'avait pas exactement compris le concept. Après l'avoir visité je peut dire que j'ai été relativement surpris en vu des commentaires que j'avais entendu de certain collègue. Pour les points positifs, de un je crois que le visuel était vraiment beau et très immersif. De deux, je crois que la musique était plutôt bonne. Pour les points négatifs, premièrement je crois que le concept était un peu flou même après l'avoir testé. Deuxièmement, je pense que les frames par seconde de la poussée des arbres aurait pu être 2 voir 3 fois plus élever parce que l'animation était très saccadé.
+
+
+### Cours nécéssaire à la conception 
+
+- animation 3D
+- modélisation 3D
+- instalation multimédias
+
 
 ## Projet 7 condui8
 ![photo](medias/condu8_baniere.png)
