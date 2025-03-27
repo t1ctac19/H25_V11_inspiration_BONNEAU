@@ -98,12 +98,12 @@ installation  |  centre  |  haut parleur  |  Cartel
 
 ### Plantation
 
-Plan |  Avant/Coté  |  haut  |  sphere  |  connecteur
+Plan |  Avant/Coté  |  haut  |  sphère  |  connecteur
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/internature_plantation_01.png)|![photo](medias/internature_plantation_02.png)|![photo](medias/internature_plantation_03.png)|![photo](medias/internature_plantation_04.png)|![photo](medias/internature_plantation_05.png)
 
 ### Avis
-Avant d'avoir essayer cette oeuvre je ne pensait pas la mettre si haute dans la liste mais je me suis pris à contemplé cette oeuvre beaucoup trop longtemps pour ne pas la mettre dans mon top 3. Même si l'intéractivité est maigre et que c'est souvent ce que j'aime le plus dans un projet multimédias, j'ai adoré cette oeuvre, le visuel était magnifique par son décors recherché et une installation impréssionante.
+Avant d'aller voir cette oeuvre je pensait qu'elle serait basique et ennuyante mais étonnament L'oeuvre était vraiment belle. Son premier point positif est sa beauté, le tunnel en toile blanche était vraiment beau et la sphere en sorte de marbre aussi, le projet est élégant et semble fait par des profesionnels. Deuxièmement, la projection et le mapping de la projection étaient parfait je n'est pas remarqué d'erreur à cette endroit. Par contre pour les points négatif, je crois que le premier serais la signification de la sphère, elle était la et en la tournant les fleurs apparaissait mais c'était très mélangeant parce que sa ne fonctionnais pas extrèmement bien. Mon deuxième point est semblable au premier, les murs en toile était aussi intéractif d'après notre guide mais je n'est pas ressenti une grande satisfaction à les touchés, car 1 ils semblaient vraiment fragile et 2 parce qu'ils ne marchaient tout simplement pas.
 
 ### Cours nécéssaire à la conception 
 
@@ -121,6 +121,30 @@ Avant d'avoir essayer cette oeuvre je ne pensait pas la mettre si haute dans la 
 Matis |  Tristan  |  Daniel  |  Abdel  |  Yavuz
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/matis.png)|![photo](medias/tristan.png)|![photo](medias/daniel.png)|![photo](medias/abdel.png)|![photo](medias/yavuz.png)
+
+### Instalation finale
+
+installation  |  objet intéractif  |  haut parleur  |  Cartel  
+:-------------------------:|:-------------------------:|:-------------------------:
+![photo](medias/fuga_entier.png)|![photo](medias/fuga_interactif.png)|![photo](medias/fuga_haut_parleur.png)
+### Plantation
+
+Devant |  Enssemble  |  Haut  
+:-------------------------:|:-------------------------:|:-------------------------:
+![photo](medias/fuga_plantation_01.png)|![photo](medias/fuga_plantation_02.png)|![photo](medias/fuga_plantation_03.png)
+
+### Avis
+
+
+### Cours nécéssaire à la conception 
+
+- conception d'une oeuvre multimédias
+- objet intéractif
+- instalation multimédias
+
+
+
+
 
 ## Projet 6 prismatica
 ![photo](medias/prismatica_baniere.png)
