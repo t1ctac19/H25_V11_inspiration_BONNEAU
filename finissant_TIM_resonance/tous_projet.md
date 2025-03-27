@@ -98,9 +98,9 @@ installation  |  centre  |  haut parleur  |  Cartel
 
 ### Plantation
 
-plantation  |  plan
-:-------------------------:|:-------------------------:
-![photo](medias/luminatura_plantation_01.png)|![photo](medias/luminatura_plantation_02.png)
+Plan |  Avant/Coté  |  haut  |  sphere  |  connecteur
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![photo](medias/internature_plantation_01.png)|![photo](medias/internature_plantation_02.png)|![photo](medias/internature_plantation_03.png)|![photo](medias/internature_plantation_04.png)|![photo](medias/internature_plantation_05.png)
 
 ### Avis
 Avant d'avoir essayer cette oeuvre je ne pensait pas la mettre si haute dans la liste mais je me suis pris à contemplé cette oeuvre beaucoup trop longtemps pour ne pas la mettre dans mon top 3. Même si l'intéractivité est maigre et que c'est souvent ce que j'aime le plus dans un projet multimédias, j'ai adoré cette oeuvre, le visuel était magnifique par son décors recherché et une installation impréssionante.
