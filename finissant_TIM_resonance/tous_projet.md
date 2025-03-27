@@ -29,7 +29,7 @@ Dominic Yale  |  William Beauvais  |  Anton Nikulin
 
 ### Instalation finale
 
-Arcade  |  Cartel
+installation  |  Cartel
 :-------------------------:|:-------------------------:
 ![photo](medias/arcadia_arcade.png)|![photo](medias/arcadia_cartel.png)
 
@@ -60,7 +60,7 @@ Audrey  |  Justine  |  Camilia  |  Prethiah  |  Ihab
 
 ### Instalation finale
 
-Arcade  |  Cartel
+installation  |  Cartel
 :-------------------------:|:-------------------------:
 ![photo](medias/arcadia_arcade.png)|![photo](medias/arcadia_cartel.png)
 
