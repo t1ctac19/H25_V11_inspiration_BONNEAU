@@ -6,4 +6,4 @@ Nous sommes allés voir une conférence de Jade Séguela, la registraire du stud
 ### équipe
 sphere packing:Bach
 :-------------------------:
-![photo](shere_packing_bach.jpg)
+![photo](medias/shere_packing_bach.jpg)
