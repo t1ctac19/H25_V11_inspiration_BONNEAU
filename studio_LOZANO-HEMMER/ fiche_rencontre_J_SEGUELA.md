@@ -6,3 +6,7 @@ Nous sommes allés voir une conférence de Jade Séguela, la registraire du stud
 sphere packing:Bach
 :-------------------------:
 ![photo](medias/shere_packing_bach.jpg)
+
+## Légende
+
+cette photo a été prise sur le site du studio Lozanno Hemmer [lien vers le site](https://lozano-hemmer.com/sphere_packing_bach.php)
