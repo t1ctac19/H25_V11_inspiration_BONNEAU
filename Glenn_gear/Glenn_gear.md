@@ -17,7 +17,9 @@ Marée montante est une exposition exterieur temporaire elle a été créé le 1
 
 ### photo de l'exposition
 
-![photo](media/cote_droit_glenn_gear_LB.png) | ![photo](media/projecteur_05_glenn_gear_LB.png) | ![photo](media/devant_proche_glenn_gear_LB.png) | ![photo](media/affiche_glenn_gear_LB.png)
+côté droit  |  projecteur |  devant  |  cartel  
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![photo](medias/cote_droit_glenn_gear_LB.png)|![photo](medias/projecteur_05_glenn_gear_LB.png)|![photo](medias/devant_proche_glenn_gear_LB.png)|![photo](medias/affiche_glenn_gear_LB.png)
 
 
 ### expérience utillisateur 
