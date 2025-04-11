@@ -9,4 +9,4 @@ sphere packing:Bach
 
 ## Légende
 
-cette photo a été prise sur le site du studio Lozanno Hemmer [lien vers le site](https://lozano-hemmer.com/sphere_packing_bach.php)
+cette photo présente l'oeuvre sphere packing:bach dans son enssemble, elle a été prise sur le site du studio Lozanno Hemmer [lien vers le site](https://lozano-hemmer.com/sphere_packing_bach.php)
