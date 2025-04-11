@@ -1,1 +1,1 @@
-ceci contient mon expérience a l'exposition de Œuvre de Glenn Gear
+ceci contient mon expérience a l'exposition de l'Œuvre de Glenn Gear
