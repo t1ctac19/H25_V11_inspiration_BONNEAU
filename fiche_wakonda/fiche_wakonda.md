@@ -15,6 +15,6 @@ vue complète  |  cartel
 :-------------------------:|:-------------------------:
 ![photo](medias/wakonda_enssemble_03.png)|![photo](medias/wakonda_cartel_01.png)
 
-vu de proche |  vu accident |  vu salle 1 |  vu salle 2 |  vu salle 3
+vue de proche |  vue accident |  vue salle 1 |  vue salle 2 |  vue salle 3
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/wakonda_enssemble_proche.png)|![photo](medias/wakonda_accident_01.png)|![photo](medias/wakonda_enssemble_proche.png)|![photo](medias/wakonda_salle_01.png)|![photo](medias/wakonda_salle_02_02.png)||![photo](medias/wakonda_salle_01.png)|![photo](medias/wakonda_salle_03_01.png)
