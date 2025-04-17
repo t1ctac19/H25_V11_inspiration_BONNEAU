@@ -6,7 +6,7 @@ je suis allé visité l'exosition art contemporain et l'oeuvre Wakonda au Musée
 
 ## Affiche de l'exposition 
 
-![photo](medias/wakonda_cartel_01.png)
+![photo](medias/art_comtemporain_MBAM.png)
 
 
 ## Enssemble de l'oeuvre
