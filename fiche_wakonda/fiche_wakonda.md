@@ -17,7 +17,7 @@ je suis allé visité l'exosition Wakonda au Musée des beaux arts de Montréal 
 ### équipe
 Joshua Gonzalez Barrera
 :-------------------------:
-![photo](medias/Joshua_Gonzalez-Barrera.png)
+![photo](medias/wakonda_enssemble_03.png)
 
 Joshua Gonzalez Barrera  |  Victor Gileau  |  Michael Un Dupré  |  Pierre-Luc Proulx  |  Maik Hamel
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
