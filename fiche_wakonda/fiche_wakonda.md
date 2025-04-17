@@ -11,7 +11,7 @@ je suis allé visité l'exosition art contemporain et l'oeuvre Wakonda au Musée
 
 ## Enssemble de l'oeuvre
 
-vue complète
+vue complète  |  cartel
 :-------------------------:|:-------------------------:
 ![photo](medias/wakonda_enssemble_03.png)|![photo](medias/wakonda_cartel_01.png)
 
