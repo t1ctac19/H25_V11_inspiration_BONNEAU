@@ -18,3 +18,5 @@ vue complète  |  cartel
 vue de proche |  vue accident |  vue salle 1 |  vue salle 2 |  vue salle 3
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/wakonda_enssemble_proche.png)|![photo](medias/wakonda_accident_01.png)|![photo](medias/wakonda_enssemble_proche.png)|![photo](medias/wakonda_salle_01.png)|![photo](medias/wakonda_salle_02_02.png)||![photo](medias/wakonda_salle_01.png)|![photo](medias/wakonda_salle_03_01.png)
+
+L'oeuvre *camp Wakonda* est une oeuvre permanente du musée des beaux arts de Montréal, c'est une oeuvre comtemplative qui expose une petite ville remplie de violence, un accident tragique entre un autobus et une voiture, des hommes animaux qui se battent contre des animaux qui leurs ressemble et des batiment presque miteux a moitié fini
