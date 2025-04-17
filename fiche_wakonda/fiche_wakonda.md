@@ -7,3 +7,8 @@ je suis allé visité l'exosition Wakonda au Musée des beaux arts de Montréal 
 ## Affiche de l'exposition 
 
 ![photo](medias/wakonda_cartel_01.png)
+
+
+## Enssemble de l'oeuvre
+
+
