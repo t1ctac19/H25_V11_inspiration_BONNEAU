@@ -15,6 +15,6 @@ vue complète
 :-------------------------:
 ![photo](medias/wakonda_enssemble_03.png)
 
-vu salle 2 |  vu accident |  vu de proche |  vu salle 1 |  vu salle 3
+vu de proche |  vu accident |  vu salle 1 |  vu salle 2 |  vu salle 3
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/wakonda_enssemble_proche.png)|![photo](medias/wakonda_accident_01.png)|![photo](medias/wakonda_enssemble_proche.png)|![photo](medias/wakonda_salle_01.png)|![photo](medias/wakonda_salle_02_02.png)||![photo](medias/wakonda_salle_01.png)|![photo](medias/wakonda_salle_03_01.png)
