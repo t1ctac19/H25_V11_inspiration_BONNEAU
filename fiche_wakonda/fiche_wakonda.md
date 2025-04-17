@@ -11,11 +11,7 @@ je suis allé visité l'exosition Wakonda au Musée des beaux arts de Montréal 
 
 ## Enssemble de l'oeuvre
 
-
-### équipe
-
-### équipe
-Joshua Gonzalez Barrera
+enssemble de l'oeuvre
 :-------------------------:
 ![photo](medias/wakonda_enssemble_03.png)
 
