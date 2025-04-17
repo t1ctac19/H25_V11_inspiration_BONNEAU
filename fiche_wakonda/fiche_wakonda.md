@@ -11,7 +11,7 @@ je suis allé visité l'exosition Wakonda au Musée des beaux arts de Montréal 
 
 ## Enssemble de l'oeuvre
 
-enssemble de l'oeuvre
+vue complète
 :-------------------------:
 ![photo](medias/wakonda_enssemble_03.png)
 
