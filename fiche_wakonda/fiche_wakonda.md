@@ -1,6 +1,6 @@
 # Wakonda
 
-je suis allé visité l'exosition art contemporain et l'oeuvre Wakonda au Musée des beaux arts de Montréal (MBAM) 
+je suis allé visité l'exosition art contemporain et l'oeuvre *camp Wakonda* au Musée des beaux arts de Montréal (MBAM) 
 
 ![photo](medias/musee_des_beau_art_MBAM.jfif)
 
