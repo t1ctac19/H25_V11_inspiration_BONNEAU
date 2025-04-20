@@ -27,7 +27,7 @@ L'oeuvre a besoin d'au moins 5 projecteur et 2 haut parleur pour diffuser dans l
 
 projecteur  |  haut parleur
 :-------------------------:|:-------------------------:
-![photo](medias/wakonda_projecteur_01)|![photo](medias/wakonda_projecteur_haut_parleur)
+![photo](medias/wakonda_projecteur_enssemble.png)|![photo](medias/wakonda_projecteur_haut_parleur_salle3.png)
 
 ## experience uttilisateur
 
