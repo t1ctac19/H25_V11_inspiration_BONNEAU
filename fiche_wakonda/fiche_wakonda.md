@@ -29,6 +29,6 @@ projecteur  |  haut parleur/projecteur
 :-------------------------:|:-------------------------:
 ![photo](medias/wakonda_projecteur_enssemble.png)|![photo](medias/wakonda_projecteur_haut_parleur_salle3.png)
 
-## experience uttilisateur
+## experience utilisateur
 
 *Camp Wakonda* est très amusant a expérimenter parce qu'il fait réfléchir: pourquoi ils ont des têtes d'animaux ? pourquoi il y a un accident ? En plus de cela l'oeuvre est très belle et très immersive grace au bruit du crépitement du feu et des tirs d'arc à flèche. Pour une des première fois de ma vie j'ai eu envi de comprendre l'oeuvre d'art et de comprendre le message qui voulait être transmis. Ce qui est bien avec *camp Wakonda* c'est que personne ne sortira indifférent et personne ne sortira sans avoir une version de l'histoire.   
