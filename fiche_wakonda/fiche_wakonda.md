@@ -19,15 +19,18 @@ vue de proche |  vue accident |  vue salle 1 |  vue salle 2 |  vue salle 3
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/wakonda_enssemble_proche.png)|![photo](medias/wakonda_accident_01.png)|![photo](medias/wakonda_enssemble_proche.png)|![photo](medias/wakonda_salle_01.png)|![photo](medias/wakonda_salle_02_02.png)||![photo](medias/wakonda_salle_01.png)|![photo](medias/wakonda_salle_03_01.png)
 
-L'oeuvre *camp Wakonda* est une oeuvre permanente du musée des beaux arts de Montréal, c'est une oeuvre comtemplative qui expose une petite ville remplie de violence, un accident tragique entre un autobus et une voiture, des hommes animaux qui se battent contre des animaux qui leurs ressemble et des batiment miteux a moitié fini. L'oeuvre contient 5 salle principale (en comptant le pont au milieu), chacune de ces salles ayant une projection différente semblant raconté une histoire.
+L'œuvre *Camp Wakonda* est une œuvre permanente du Musée des beaux-arts de Montréal. C'est une œuvre contemplative qui expose une petite ville remplie de violence: un accident tragique entre un autobus et une voiture, des hommes-animaux qui se battent contre des animaux qui leur ressemblent, et des bâtiments miteux à moitié finis. L'œuvre contient 5 salles principales (en comptant le pont au milieu), chacune de ces salles ayant une projection différente, semblant raconter une histoire.
 
-## Élément nécéssaire à la disposition
+## Éléments nécessaires à la disposition
 
-L'oeuvre a besoin d'au moins 5 projecteur et 2 haut parleur pour diffuser dans les 5 salles et d'avoir les sons liée au action des personnages, elle a besoin d'être dans une salle plongé dans le noir pour que le feu et les projections soit quasiment la seule source de lumière c'est utile pour l'immersion et elle a besoin de quelque lampes peu forte pour augmenter l'impact de l'oeuvre.
+
+L'œuvre a besoin d'au moins 5 projecteurs et 2 haut-parleurs pour diffuser dans les 5 salles et avoir les sons liés aux actions des personnages. Elle a besoin d'être dans une salle plongée dans le noir pour que le feu et les projections soient quasiment la seule source de lumière — c'est utile pour l'immersion — et elle a besoin de quelques lampes peu fortes pour augmenter l'impact de l'œuvre.
 
 projecteur  |  haut parleur/projecteur
 :-------------------------:|:-------------------------:
 ![photo](medias/wakonda_projecteur_enssemble.png)|![photo](medias/wakonda_projecteur_haut_parleur_salle3.png)
+
+
 
 ## Expérience utilisateur
 
