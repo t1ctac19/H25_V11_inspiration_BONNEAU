@@ -25,7 +25,7 @@ L'oeuvre *camp Wakonda* est une oeuvre permanente du musée des beaux arts de Mo
 
 L'oeuvre a besoin d'au moins 5 projecteur et 2 haut parleur pour diffuser dans les 5 salles et d'avoir les sons liée au action des personnages, elle a besoin d'être dans une salle plongé dans le noir pour que le feu et les projections soit quasiment la seule source de lumière c'est utile pour l'immersion et elle a besoin de quelque lampes peu forte pour augmenter l'impact de l'oeuvre.
 
-projecteur  |  haut parleur
+projecteur  |  haut parleur/projecteur
 :-------------------------:|:-------------------------:
 ![photo](medias/wakonda_projecteur_enssemble.png)|![photo](medias/wakonda_projecteur_haut_parleur_salle3.png)
 
