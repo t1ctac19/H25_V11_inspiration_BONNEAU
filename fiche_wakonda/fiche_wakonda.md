@@ -1,8 +1,10 @@
 # Wakonda
 
 je suis allé visité l'exposition art contemporain et l'oeuvre *camp Wakonda* au Musée des beaux arts de Montréal (MBAM) 
-
+musée MBAM
+:-------------------------:
 ![photo](medias/musee_des_beau_art_MBAM.jfif)
+
 
 ## Affiche de l'exposition art contemporain
 
