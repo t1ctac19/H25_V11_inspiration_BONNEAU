@@ -4,7 +4,7 @@ je suis allé visité l'exposition art contemporain et l'oeuvre *camp Wakonda* a
 
 ![photo](medias/musee_des_beau_art_MBAM.jfif)
 
-## Affiche de l'exposition 
+## Affiche de l'exposition art contemporain
 
 ![photo](medias/art_comtemporain_MBAM.png)
 
