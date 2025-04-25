@@ -26,7 +26,7 @@ L'œuvre *Camp Wakonda* est une œuvre permanente du Musée des beaux-arts de Mo
 ## Éléments nécessaires à la mise en exposition
 
 
-L'œuvre a besoin d'au moins 5 projecteurs et 2 haut-parleurs pour diffuser dans les 5 salles et avoir les sons liés aux actions des personnages. Elle a besoin d'être dans une salle plongée dans le noir pour que le feu et les projections soient quasiment la seule source de lumière — c'est utile pour l'immersion —, elle a besoin d'un bancpour qu'on puisse s'assir et elle a besoin de quelques lampes peu fortes pour augmenter l'impact de l'œuvre.
+L'œuvre a besoin d'au moins 5 projecteurs et 2 haut-parleurs pour diffuser dans les 5 salles et avoir les sons liés aux actions des personnages. Elle a besoin d'être dans une salle plongée dans le noir pour que le feu et les projections soient quasiment la seule source de lumière — c'est utile pour l'immersion —, elle a besoin d'un banc pour qu'on puisse s'assir et elle a besoin de quelques lampes peu fortes pour augmenter l'impact de l'œuvre.
 
 projecteur  |  haut parleur/projecteur
 :-------------------------:|:-------------------------:
