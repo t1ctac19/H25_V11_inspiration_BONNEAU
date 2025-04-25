@@ -1,6 +1,3 @@
-toute l'information sur l'exposition marée montante de Glenn gear va aller ici
-
-
 # Marée montante
 
 Je suis allé voir l'esposition marée montante de Glenn gear pour mieux comprendre le dispositif multimédias
