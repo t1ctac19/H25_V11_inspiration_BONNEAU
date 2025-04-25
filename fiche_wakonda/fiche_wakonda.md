@@ -38,3 +38,8 @@ projecteur  |  haut parleur/projecteur
 
 *Camp Wakonda* est très amusant à expérimenter parce qu'il fait réfléchir : pourquoi ils ont des têtes d'animaux ? Pourquoi il y a un accident ? En plus de cela, l'œuvre est très belle et très immersive grâce au bruit du crépitement du feu et des tirs d'arc à flèche. Pour une des premières fois de ma vie, j'ai eu envie de comprendre l'œuvre d'art et de comprendre le message qui voulait être transmis. Ce qui est bien avec Camp Wakonda, c'est que personne ne sortira indifférent et personne ne sortira sans avoir une version de l'histoire.
 
+
+### Ce que j'ai aimé
+
+J'ai vraiment aimé l'utilisation de l'éclairage sur le projet je trouve que sa rajoutais une profondeur intéressante à l'oeuvre et c'est clairement une technique que j'aimerais réutiliser dans un projet future si cela arrive un jour
+
