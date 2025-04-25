@@ -2,9 +2,15 @@ Ceci contiendra mon plan pour l'oral Glenn Gear
 
 Introduction :
 
+Je suis allé visité l'oeuvre Marée montante de Glenn Gear qui se trouve en face du Musée des beaux arts de Montréal, l'oeuvre étant assé simple visuellement je vais plus expliqué le but de l'oeuvre et mon avis personelle sur celle-ci.
+
  Quel est l'objectif de votre communication (sujet posé = nommer l'oeuvre (et l'artiste) ou le dispositif présenté + lieu visité)
  Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
+ 
 Développement :
+
+
+
 
  Présentation détaillée de l'oeuvre ou du dispositif multimédia (Décrire où elle est située dans l'exposition, comment on y accède, quels sont ses composantes et éléments)
  Expérience vécue (Décrire votre expérience de l'oeuvre ou du dispositif, le parcours, la durée, les gestes à poser, etc)
