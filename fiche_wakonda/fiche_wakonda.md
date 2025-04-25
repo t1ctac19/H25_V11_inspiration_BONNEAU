@@ -43,5 +43,10 @@ projecteur  |  haut parleur/projecteur
 
 ### Ce que j'ai aimé
 
-J'ai vraiment aimé l'utilisation de l'éclairage sur le projet je trouve que sa rajoutais une profondeur intéressante à l'oeuvre et c'est clairement une technique que j'aimerais réutiliser dans un projet future si cela arrive un jour
+J'ai vraiment aimé l'utilisation de l'éclairage sur le projet je trouve que sa rajoutais une profondeur intéressante à l'oeuvre et c'est clairement une technique que j'aimerais réutiliser dans un projet future si cela arrive un jour.
 
+
+
+#### Légende 
+
+Certaines photos on été prise sur le site du [Musée des beaux arts de Montréal](https://www.mbam.qc.ca/fr/art-contemporain/)
