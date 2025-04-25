@@ -21,6 +21,8 @@ vue de proche |  vue accident |  vue salle 1 |  vue salle 2 |  vue salle 3
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![photo](medias/wakonda_enssemble_proche.png)|![photo](medias/wakonda_accident_01.png)|![photo](medias/wakonda_enssemble_proche.png)|![photo](medias/wakonda_salle_01.png)|![photo](medias/wakonda_salle_02_02.png)||![photo](medias/wakonda_salle_01.png)|![photo](medias/wakonda_salle_03_01.png)
 
+## Explication de l'oeuvre
+
 L'œuvre *Camp Wakonda* est une œuvre permanente du Musée des beaux-arts de Montréal. C'est une œuvre contemplative qui expose une petite ville remplie de violence: un accident tragique entre un autobus et une voiture, des hommes-animaux qui se battent contre des animaux qui leur ressemblent, et des bâtiments miteux à moitié finis. L'œuvre contient 5 salles principales (en comptant le pont au milieu), chacune de ces salles ayant une projection différente, semblant raconter une histoire.
 
 ## Éléments nécessaires à la mise en exposition
