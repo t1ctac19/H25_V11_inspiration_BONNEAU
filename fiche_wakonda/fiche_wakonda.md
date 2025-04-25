@@ -23,7 +23,7 @@ vue de proche |  vue accident |  vue salle 1 |  vue salle 2 |  vue salle 3
 
 L'œuvre *Camp Wakonda* est une œuvre permanente du Musée des beaux-arts de Montréal. C'est une œuvre contemplative qui expose une petite ville remplie de violence: un accident tragique entre un autobus et une voiture, des hommes-animaux qui se battent contre des animaux qui leur ressemblent, et des bâtiments miteux à moitié finis. L'œuvre contient 5 salles principales (en comptant le pont au milieu), chacune de ces salles ayant une projection différente, semblant raconter une histoire.
 
-## Éléments nécessaires à la disposition
+## Éléments nécessaires à la mise en exposition
 
 
 L'œuvre a besoin d'au moins 5 projecteurs et 2 haut-parleurs pour diffuser dans les 5 salles et avoir les sons liés aux actions des personnages. Elle a besoin d'être dans une salle plongée dans le noir pour que le feu et les projections soient quasiment la seule source de lumière — c'est utile pour l'immersion —, elle a besoin d'un bancpour qu'on puisse s'assir et elle a besoin de quelques lampes peu fortes pour augmenter l'impact de l'œuvre.
